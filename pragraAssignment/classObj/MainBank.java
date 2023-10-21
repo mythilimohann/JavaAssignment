@@ -30,7 +30,7 @@ public class MainBank {
                 } else if (input == 'd' || input == 'D') {
                     acc.accSummary();
                 } else if (input == 'e' || input == 'E') {
-                    System.out.println("Exit"); 
+                    System.out.println("Exit");
                     break;
                 } 
             } else {
